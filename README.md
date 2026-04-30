@@ -6,23 +6,24 @@
 
 Este proyecto explora la aplicación de **Proximal Policy Optimization (PPO)** sobre los brazos robóticos del **TIAGo** en simulación con **MuJoCo**, comenzando por tareas de **reaching** y avanzando hacia escenarios de **pick and place colaborativo**. El repositorio reúne el entorno, scripts de entrenamiento y evaluación, utilidades de visualización y carpetas de resultados generadas durante los experimentos.
 
-https://github.com/user-attachments/assets/7deee919-a4a8-47af-b0e9-829bff6d6231
+https://github.com/user-attachments/assets/83ec4f58-bef6-43ac-b2f8-f14443ae21a5
 
 
 ## Tabla de contenido
 
-1. Descripción general](#1-descripción-general)
-2. Objetivos del proyecto](#2-objetivos-del-proyecto)
-3. Tecnologías utilizadas](#3-tecnologías-utilizadas)
-4. Estructura del proyecto](#4-estructura-del-proyecto)
-5. Explicación de carpetas y archivos](#5-explicación-de-carpetas-y-archivos)
-6. Flujo general de trabajo](#6-flujo-general-de-trabajo)
-7. Descripción técnica del entorno](#7-descripción-técnica-del-entorno)
-8. Entrenamiento con PPO](#8-entrenamiento-con-ppo)
-9. Visualización y evaluación](#9-visualización-y-evaluación)
-10. Resultados generados por el proyecto](#10-resultados-generados-por-el-proyecto)
-11. Cómo ejecutar el proyecto](#11-cómo-ejecutar-el-proyecto)
-12. Trabajo futuro](#12-trabajo-futuro)
+- [1. Descripción general](#1-descripción-general)
+- [2. Objetivos del proyecto](#2-objetivos-del-proyecto)
+- [3. Tecnologías utilizadas](#3-tecnologías-utilizadas)
+- [4. Estructura del proyecto](#4-estructura-del-proyecto)
+- [5. Explicación de carpetas y archivos](#5-explicación-de-carpetas-y-archivos)
+- [6. Flujo general de trabajo](#6-flujo-general-de-trabajo)
+- [7. Descripción técnica del entorno](#7-descripción-técnica-del-entorno)
+- [8. Entrenamiento con PPO](#8-entrenamiento-con-ppo)
+- [9. Visualización y evaluación](#9-visualización-y-evaluación)
+- [10. Resultados generados por el proyecto](#10-resultados-generados-por-el-proyecto)
+- [11. Cómo ejecutar el proyecto](#11-cómo-ejecutar-el-proyecto)
+- [12. Trabajo futuro](#12-trabajo-futuro)
+
 
 ---
 
