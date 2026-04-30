@@ -35,6 +35,9 @@ El propósito de este repositorio es investigar cómo aplicar **aprendizaje por 
 2. **Selección automática del brazo**: cuando hay dos brazos disponibles, usar el que esté geométricamente más cerca del objetivo.
 3. **Manipulación avanzada**: extender la tarea hacia esquemas de **pick and place** y, más adelante, a manipulación colaborativa entre ambos brazos.
 
+<img width="1280" height="922" alt="WhatsApp Image 2026-04-30 at 11 55 04 AM" src="https://github.com/user-attachments/assets/bc193735-c47a-4d1c-9b6f-a4acf96c91b0" />
+<img width="931" height="922" alt="WhatsApp Image 2026-04-30 at 11 54 53 AM" src="https://github.com/user-attachments/assets/2a889dd2-593f-44e3-ade2-89f0e7186a10" />
+
 ---
 
 ## 2. Objetivos del proyecto
