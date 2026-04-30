@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# MuJoCo / temporary files
+*.log
+*.tmp
+
+# Optional: avoid very large local training outputs if they grow later
+# tb_dual_ppo/
+# checkpoints_dual/
+# eval_logs_dual/

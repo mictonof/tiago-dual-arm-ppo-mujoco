@@ -1,0 +1,8 @@
+actuator_id,name,ctrl_low,ctrl_high
+16,arm_right_1_joint_position,-1.1781,1.5708
+17,arm_right_2_joint_position,-1.1781,1.5708
+18,arm_right_3_joint_position,-3.53429,1.5707999999999998
+19,arm_right_4_joint_position,-0.3926989999999999,2.35619
+20,arm_right_5_joint_position,-2.0944,2.0944
+21,arm_right_6_joint_position,-1.41372,1.41372
+22,arm_right_7_joint_position,-2.0944,2.0944
